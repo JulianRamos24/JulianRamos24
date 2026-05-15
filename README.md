@@ -1,4 +1,5 @@
-## Hi there 👋
+Julian Ramos
+Ingeniero de Sistemas de Informacion - UPC
 
 <!--
 **JulianRamos24/JulianRamos24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
